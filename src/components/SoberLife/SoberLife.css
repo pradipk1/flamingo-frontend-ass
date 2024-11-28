@@ -1,0 +1,56 @@
+.SoberLifeMainDiv {
+    position: relative;
+    width: 100%;
+    height: 554px;
+}
+
+.SoberLifeImgDiv {
+    width: 100%;
+    height: 100%;
+}
+.SoberLifeImgDiv>img {
+    width: 100%;
+    height: 100%;
+}
+
+.SoberLifeVedaImgDiv {
+    width: 151.35px;
+    height: 80px;
+    position: absolute;
+    top: 42px;
+    left: 204px;
+}
+.SoberLifeVedaImgDiv>img {
+    width: 100%;
+    height: 100%;
+}
+
+.SoberLifeTextDiv {
+    position: absolute;
+    width: 368px;
+    height: 81px;
+    top: 219px;
+    left: 213px;
+}
+.SoberLifeTextDiv>h1 {
+    font-family: Playfair;
+    font-size: 80px;
+    line-height: 96px;
+    color: #121F4E;
+}
+
+.SoberLifePDiv {
+    position: absolute;
+    width: 375px;
+    height: 30px;
+    top: 305px;
+    left: 213px;
+}
+.SoberLifePDiv>p {
+    font-family: Playfair;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 27.6px;
+    color: #1E1E1E;
+}
+
