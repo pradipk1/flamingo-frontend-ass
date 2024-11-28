@@ -1,0 +1,44 @@
+.TeamMembersMainDiv {
+    margin-top: 50px;
+    margin-bottom: 245px;
+}
+
+.TemMembersH2Div {
+    width: 433px;
+    height: 31px;
+    margin-left: 498px;
+}
+.TemMembersH2Div>h2 {
+    text-align: center;
+    color: #121F4E;
+}
+
+.TeamMembersFlexDiv {
+    margin-top: 38px;
+    margin-left: 231px;
+    display: flex;
+}
+
+.TeamMembersCardDiv:first-child {
+    margin-right: 32px;
+    width: 208px;
+}
+
+.TeamMembersCardDiv:nth-child(2) {
+    width: 164px;
+    margin-right: 39px;
+}
+
+.TeamMembersCardDiv:nth-child(3) {
+    width: 208px;
+    margin-right: 36px;
+}
+
+.TeamMembersCardDiv:nth-child(4) {
+    width: 156px;
+    margin-right: 39px;
+}
+
+.TeamMembersCardDiv:last-child {
+    width: 156px;
+}

@@ -1,0 +1,21 @@
+.TeamMembersCardDiv {
+    text-align: center;
+}
+
+.TeamMembersCardDiv>img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 14px;
+}
+
+.TeamMembersCardDiv>h2 {
+    font-size: 14px;
+    line-height: 20px;
+    color: #121F4E;
+
+}
+
+.TeamMembersCardDiv>span {
+    font-size: 14px;
+    line-height: 20px;
+}
