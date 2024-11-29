@@ -4,7 +4,8 @@ import './WhyChooseProgram.css';
 function WhyChooseProgram() {
   return (
     <div className='WhyChooseProgramMainDiv'>
-        <div className='WhyChooseProgramBgDiv'>
+        <div className='WhyChooseProgramBgDiv'></div>
+        <div className='WhyChooseProgramDescDiv'>
             <h2>Why Choose the At-Home De-Addiction Program?</h2>
 
             <div>
@@ -13,19 +14,19 @@ function WhyChooseProgram() {
 
             <div>
               <b>Convenient and Personalized Care:</b>
-              <p>Customized recovery plans based on individual preferences, on times convenient to you, guided by expert psychiatrists, psychologists, and wellness professionals all experts will come to you and you don't need to go anywhere.</p>
+              <p>Customized recovery plans based on individual preferences, on times convenient to you, guided by expert<br /> psychiatrists, psychologists, and wellness professionals all experts will come to you and you don't need to go<br /> anywhere.</p>
             </div>
 
             <div>
               <b>Comprehensive Support:</b>
-              <p>Daily mood check-ins, guided meditations, journaling, and regular assessments to keep you engaged and on track.</p>
+              <p>Daily mood check-ins, guided meditations, journaling, and regular assessments to keep<br /> you engaged and on track.</p>
             </div>
 
             <div>
               <b>Private:</b>
-              <p>All services are delivered through our proprietary app : Let’s Get Happi app which does not collect data, giving you access to top-tier care from anywhere while protecting your privacy.</p>
+              <p>All services are delivered through our proprietary app : Let’s Get Happi app which does not <br /> collect data, giving you access to top-tier care from anywhere while protecting your privacy.</p>
             </div>
-        </div>
+          </div>
     </div>
   )
 }
