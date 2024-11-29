@@ -2,6 +2,8 @@ import React from 'react';
 import './HomePage.css';
 import SoberLife from '../../components/SoberLife/SoberLife';
 import TeamMembers from '../../components/TeamMembers/TeamMembers';
+import ProgramForWho from '../../components/ProgramForWho/ProgramForWho';
+import WhyChooseProgram from '../../components/WhyChooseProgram/WhyChooseProgram';
 
 function HomePage() {
   return (
@@ -14,6 +16,10 @@ function HomePage() {
         </div>
 
         <TeamMembers />
+
+        <ProgramForWho />
+
+        <WhyChooseProgram />
     </div>
   )
 }

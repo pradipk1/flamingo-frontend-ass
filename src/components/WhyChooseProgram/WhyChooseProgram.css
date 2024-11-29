@@ -1,0 +1,14 @@
+.WhyChooseProgramMainDiv {
+    width: 100%;
+    height: 750px;
+    margin-bottom: 100px;
+}
+
+.WhyChooseProgramBgDiv {
+    background-image: url("https://s3-alpha-sig.figma.com/img/1b24/7467/f31f47fbe82129a76d30dcc369af0290?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QxJr52npqpdLDijwd5CAKnh~-cBwM4JEOQCvJu1Y6muYKFPpnhg665w88F1fJprjm1hQIqtAm09-yP9s0-PiZJrzRoEKDBXWFUnC5cjPbrNyC7rFUo8dBXqiVjx2hGphMnSHOyUXS4gux0~ZN6F3~zQux6tcj2mkpjZ8OIW85t-g~fClu4lFh5nUIQVVqifBLWIxFlCtWxKHOFyZUhZPsZanREuXY4mI1xFRPMXI9H2mgWb245Lx7kTasZf5JPKggLxEjQx54wvEuL4Gk~xVgPHY6x7iSFYIzdLBqaJ7-PnyOK~ireWnS-MZK0XOjSYD3tj6POkDD5a1glQZWYODnw__");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
