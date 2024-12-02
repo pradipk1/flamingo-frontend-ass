@@ -1,0 +1,28 @@
+/* .ProgramStructureMainDiv {
+    border: 1px solid red;
+} */
+
+.ProgramStructureTextDiv {
+    width: 434px;
+    height: 64px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 62px;
+}
+.ProgramStructureTextDiv>span {
+    font-size: 24px;
+    line-height: 32px;
+}
+.ProgramStructureTextDiv>h2 {
+    line-height: 32px;
+    color: #121F4E;
+}
+
+.ProgramStructureGridDiv {
+    margin-left: 216px;
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: max-content max-content;
+    grid-column-gap: 28px;
+    grid-row-gap: 49px;
+}
