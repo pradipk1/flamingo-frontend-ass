@@ -10,5 +10,5 @@
 
 ## Deployed Link:
 
-* https://app.netlify.com/sites/fluffy-cannoli-a32be8/deploys/674da67850b97d26fe52fa01 
+* https://fluffy-cannoli-a32be8.netlify.app/ 
 
