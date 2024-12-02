@@ -6,6 +6,7 @@ import ProgramForWho from '../../components/ProgramForWho/ProgramForWho';
 import WhyChooseProgram from '../../components/WhyChooseProgram/WhyChooseProgram';
 import ProgramStructure from '../../components/ProgramStructure/ProgramStructure';
 import WhatReceive from '../../components/WhatReceive/WhatReceive';
+import StartJourney from '../../components/StartJourney/StartJourney';
 
 function HomePage() {
   return (
@@ -26,6 +27,8 @@ function HomePage() {
         <ProgramStructure />
 
         <WhatReceive />
+
+        <StartJourney />
     </div>
   )
 }
