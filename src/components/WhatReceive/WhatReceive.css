@@ -1,0 +1,69 @@
+.WhatReceiveMainDiv {
+    height: 456px;
+    background: #F8FFEF;
+}
+
+.WhatReceiveFlexDiv {
+    margin-left: 309px;
+    display: flex;
+}
+
+.WhatReceiveDetailsDiv {
+    margin-top: 29px;
+    margin-right: 24px;
+}
+.WhatReceiveDetailsDiv>h2 {
+    height: 39px;
+    margin-bottom: 10px;
+    line-height: 32px;
+    color: #121F4E;
+}
+
+.WhatReceiveDetailsDiv>div {
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.WhatReceiveDetailsDiv>div>h2 {
+    font-size: 15px;
+    color: #73A046;
+}
+.WhatReceiveDetailsDiv>div>p {
+    font-weight: 500;
+}
+
+.WhatReceiveDetailsDiv>div:nth-child(2) {
+    width: 451px;
+    height: 116px;
+    margin-left: 1px;
+}
+
+.WhatReceiveDetailsDiv>div:nth-child(3) {
+    width: 406px;
+    height: 62px;
+    margin-left: 1px;
+}
+
+.WhatReceiveDetailsDiv>div:nth-child(4) {
+    width: 456px;
+    height: 64px;
+}
+
+.WhatReceiveDetailsDiv>div:last-child {
+    width: 404px;
+    height: 85px;
+    margin-left: 3px;
+}
+
+
+.WhatReceiveImgDiv {
+    width: 437px;
+    height: 400px;
+    margin-top: 25px;
+}
+
+.WhatReceiveImgDiv>img {
+    width: 100%;
+    height: 100%;
+    border-radius: 17px;
+}

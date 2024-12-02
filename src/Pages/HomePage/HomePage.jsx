@@ -5,6 +5,7 @@ import TeamMembers from '../../components/TeamMembers/TeamMembers';
 import ProgramForWho from '../../components/ProgramForWho/ProgramForWho';
 import WhyChooseProgram from '../../components/WhyChooseProgram/WhyChooseProgram';
 import ProgramStructure from '../../components/ProgramStructure/ProgramStructure';
+import WhatReceive from '../../components/WhatReceive/WhatReceive';
 
 function HomePage() {
   return (
@@ -23,6 +24,8 @@ function HomePage() {
         <WhyChooseProgram />
 
         <ProgramStructure />
+
+        <WhatReceive />
     </div>
   )
 }
