@@ -1,0 +1,12 @@
+.WelcomeScriptMainDiv {
+    width: 843px;
+    height: 124px;
+    margin-top: 54px;
+    margin-left: 301px;
+}
+.WelcomeScriptMainDiv>p {
+    line-height: 28px;
+    text-align: center;
+    color: #393939;
+}
+
