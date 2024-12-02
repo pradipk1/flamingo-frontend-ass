@@ -1,5 +1,4 @@
 .ProgramStructureMainDiv {
-    border: 1px solid red;
     margin-bottom: 67px;
 }
 
@@ -21,7 +20,6 @@
 
 .ProgramStructureGridDiv {
     margin-left: 216px;
-    /* border: 1px solid red; */
     display: grid;
     grid-template-columns: max-content max-content;
     grid-column-gap: 28px;
