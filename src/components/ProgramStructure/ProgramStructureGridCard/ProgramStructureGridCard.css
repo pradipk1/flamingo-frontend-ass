@@ -35,10 +35,12 @@
 .ProgramStructureGridCardDetailsDiv>div {
     width: 279px;
     /* height: 118px; */
-    font-family: Poppins;
-    font-size: 15px;
     line-height: 23px;
     color: #393939;
+}
+
+.ProgramStructureGridCardDetailsDiv>div>h2 {
+    font-size: 15px;
 }
 
 .ProgramStructureGridCardDetailsDiv>div>span {
