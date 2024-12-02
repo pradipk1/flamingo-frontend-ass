@@ -7,6 +7,7 @@ import WhyChooseProgram from '../../components/WhyChooseProgram/WhyChooseProgram
 import ProgramStructure from '../../components/ProgramStructure/ProgramStructure';
 import WhatReceive from '../../components/WhatReceive/WhatReceive';
 import StartJourney from '../../components/StartJourney/StartJourney';
+import CostOfProgram from '../../components/CostOfProgram/CostOfProgram';
 
 function HomePage() {
   return (
@@ -29,6 +30,8 @@ function HomePage() {
         <WhatReceive />
 
         <StartJourney />
+
+        <CostOfProgram />
     </div>
   )
 }

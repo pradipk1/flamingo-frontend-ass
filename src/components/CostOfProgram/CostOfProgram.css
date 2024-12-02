@@ -1,0 +1,50 @@
+.CostOfProgramMainDiv {
+    margin-bottom: 677px;
+}
+
+.CostOfProgramH2Div {
+    width: 292px;
+    height: 34px;
+    margin: auto;
+    margin-bottom: 26px;
+    text-align: center;
+}
+
+.CostOfProgramH2Div>h2 {
+    font-weight: 500;
+    color: #105913;
+}
+
+.CostOfProgramFlexDiv {
+    display: flex;
+    gap: 55px;
+    margin-left: 358px;
+}
+
+.CostOfProgramFlexDiv>div {
+    width: 330px;
+    height: 132px;
+    border-radius: 16px;
+    border: 1px solid #121F4E;
+    background: #F1F6E8;
+}
+
+.CostOfProgramFlexDiv>div>div {
+    width: 289px;
+    height: 71px;
+    margin-left: 23px;
+    margin-top: 27px;
+    text-align: center;
+}
+
+.CostOfProgramFlexDiv>div>div>h2 {
+    font-size: 32px;
+    line-height: 38px;
+    color: #121F4E;
+}
+
+.CostOfProgramFlexDiv>div>div>span {
+    font-size: 24px;
+    line-height: 35px;
+}
+
