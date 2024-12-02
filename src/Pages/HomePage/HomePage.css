@@ -3,3 +3,10 @@
 }
 
 
+
+@media screen and (width>1441px) {
+    .HomePageMainDiv {
+        margin: auto;
+    }
+}
+
